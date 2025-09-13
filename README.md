@@ -1,14 +1,17 @@
-# 💫 About Me:
-<img alt="About Me Image" width="250"
+# <span style="font-family: Impact, Charcoal, sans-serif; font-size: 30px; letter-spacing: 1px;">💫 About Me:</span>
+<img alt="About Me Image" width="230"
 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emlqajlrNDh1dTVhMGo2NXFsNDVzcDZxNWF2Y3d0MzhoY2N0ZTBmayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EQKtfl2Np0ME05furr/giphy.gif"
 align="right" style="margin-left: 15px; margin-bottom: 10px;" />
 
-🔭 I’m currently working on building and scaling backend systems using Django, Python, and MySQL, integrating third-party APIs, and optimizing database performance.<br>
-🤝 I’m looking to collaborate on Open-source projects, especially in the areas of web development, developer tools, or AI-based applications.<br>
-🧠 I’m looking for help with improving my skills in system design and contributing more effectively to large-scale open-source repositories.<br>
-🌱 I’m currently learning advanced Python concepts, Docker & Kubernetes for containerization, and exploring cloud technologies (AWS/GCP).<br>
-💬 Ask me about backend development, RESTful APIs, database optimization, debugging tricky code, and Git/GitHub workflows.<br>
-⚡ Fun fact I once fixed a major production bug by accidentally typing the correct command at 3 AM — and I still don’t fully know how it worked! 😅
+<span style="font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 16px; line-height: 1.6;">
+🔭 I’m currently building and scaling backend systems using Django, Python, and MySQL, with a focus on database optimization and API integrations.<br>
+🤝 I enjoy collaborating on open-source projects in web development, developer tools, and AI-driven applications.<br>
+🧠 Actively improving my skills in system design and contributing to large-scale repositories.<br>
+🌱 Exploring advanced Python concepts, Docker, Kubernetes, and cloud platforms like AWS & GCP.<br>
+💬 Ask me about REST APIs, debugging tricky code, database performance tuning, and Git/GitHub workflows.<br>
+⚡ Fun fact: I once solved a production issue at 3 AM by accident — still one of my luckiest fixes 😅
+</span>
+
 
 
 
