@@ -32,5 +32,7 @@ align="right" style="margin-left: 15px; margin-bottom: 10px;" />
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/swapnanil99) 
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/swapnanil99/swapnanil99/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/swapnanil99/swapnanil99/output/github-contribution-grid-snake.svg)
+
+
 
