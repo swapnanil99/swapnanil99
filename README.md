@@ -9,11 +9,14 @@ align="right" style="margin-left: 15px; margin-bottom: 10px;" />
 🧠 Actively improving my skills in system design and contributing to large-scale repositories.<br>
 🌱 Exploring advanced Python concepts, Docker, Kubernetes, and cloud platforms like AWS & GCP.<br>
 💬 Ask me about REST APIs, debugging tricky code, database performance tuning, and Git/GitHub workflows.<br>
-⚡ Fun fact: I once solved a production issue at 3 AM by accident — still one of my luckiest fixes 😅
+⚡ Fun fact: I once solved a production issue at 3 AM by accident — still one of my luckiest fixes 😅.<br><br>
 </span>
 
+👇 Type in your console or terminal to connect with me.
 
-
+```bash
+npx swapnanil
+``` 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/swapnanil99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnanilmaity) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnanilmaity99@gmail.com) 
