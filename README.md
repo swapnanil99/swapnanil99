@@ -6,10 +6,10 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emlqajlrNDh1dTVhMGo2NXFsND
 align="right" style="margin-left: 15px; margin-bottom: 10px;" />
 
 <span style="font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 16px; line-height: 1.6;">
-🔭 Currently building scalable backend systems with Django, Python & MySQL, focusing on performance and APIs.<br>
-🤝 Love collaborating on open-source, web dev, and AI projects.<br>
-🌱 Learning Docker, Kubernetes, and cloud platforms (AWS, GCP).<br>
-💬 Ask me about REST APIs, debugging, databases, and Git workflows.<br>
+🔭 Currently building scalable backend systems with Django, Python & MySQL, focusing on performance and APIs.<br><br>
+🤝 Love collaborating on open-source, web dev, and AI projects.<br><br>
+🌱 Learning Docker, Kubernetes, and cloud platforms (AWS, GCP).<br><br>
+💬 Ask me about REST APIs, debugging, databases, and Git workflows.<br><br>
 ⚡ Fun fact: Fixed a production bug at 3 AM — by pure luck 😅.<br><br>
 </span>
 
