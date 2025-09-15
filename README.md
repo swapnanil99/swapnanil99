@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/swapnanil99/swapnanil99/main/banner.gif)
 
-# <span style="font-family: Impact, Charcoal, sans-serif; font-size: 30px; letter-spacing: 1px;">💫 About Me:</span>
+# <span style="font-family: Impact, Charcoal, sans-serif; font-size: 30px; letter-spacing: 1px;">💫 Hello world 👋, I'm Swapnanil Maity</span>
 <img alt="About Me Image" width="230"
 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emlqajlrNDh1dTVhMGo2NXFsNDVzcDZxNWF2Y3d0MzhoY2N0ZTBmayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EQKtfl2Np0ME05furr/giphy.gif"
 align="right" style="margin-left: 15px; margin-bottom: 10px;" />
