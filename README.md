@@ -1,15 +1,16 @@
+![Banner](https://raw.githubusercontent.com/swapnanil99/swapnanil99/main/banner.gif)
+
 # <span style="font-family: Impact, Charcoal, sans-serif; font-size: 30px; letter-spacing: 1px;">💫 About Me:</span>
 <img alt="About Me Image" width="230"
 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3emlqajlrNDh1dTVhMGo2NXFsNDVzcDZxNWF2Y3d0MzhoY2N0ZTBmayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EQKtfl2Np0ME05furr/giphy.gif"
 align="right" style="margin-left: 15px; margin-bottom: 10px;" />
 
 <span style="font-family: 'Trebuchet MS', Helvetica, sans-serif; font-size: 16px; line-height: 1.6;">
-🔭 I’m currently building and scaling backend systems using Django, Python, and MySQL, with a focus on database optimization and API integrations.<br>
-🤝 I enjoy collaborating on open-source projects in web development, developer tools, and AI-driven applications.<br>
-🧠 Actively improving my skills in system design and contributing to large-scale repositories.<br>
-🌱 Exploring advanced Python concepts, Docker, Kubernetes, and cloud platforms like AWS & GCP.<br>
-💬 Ask me about REST APIs, debugging tricky code, database performance tuning, and Git/GitHub workflows.<br>
-⚡ Fun fact: I once solved a production issue at 3 AM by accident — still one of my luckiest fixes 😅.<br><br>
+🔭 Currently building scalable backend systems with Django, Python & MySQL, focusing on performance and APIs.<br>
+🤝 Love collaborating on open-source, web dev, and AI projects.<br>
+🌱 Learning Docker, Kubernetes, and cloud platforms (AWS, GCP).<br>
+💬 Ask me about REST APIs, debugging, databases, and Git workflows.<br>
+⚡ Fun fact: Fixed a production bug at 3 AM — by pure luck 😅.<br><br>
 </span>
 
 👇 Type in your console or terminal to connect with me.
@@ -17,7 +18,7 @@ align="right" style="margin-left: 15px; margin-bottom: 10px;" />
 ```bash
 npx swapnanil
 ``` 
-
+👆 This command line tool can be found at npx swapnanil
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/swapnanil99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnanilmaity) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnanilmaity99@gmail.com) 
 
