@@ -9,7 +9,7 @@ align="right" style="margin-left: 15px; margin-bottom: 10px;" />
 🔭 Currently building scalable backend systems with Django, Python & MySQL, focusing on performance and APIs.<br><br>
 🤝 Love collaborating on open-source, web dev, and AI projects.<br><br>
 🌱 Learning Docker, Kubernetes, and cloud platforms (AWS, GCP).<br><br>
-💬 Ask me about REST APIs, debugging, databases, and Git workflows.<br><br>
+💬 Ask me about REST APIs, Python, debugging, databases, and Git workflows.<br><br>
 ⚡ Fun fact: Fixed a production bug at 3 AM — by pure luck 😅.<br><br>
 </span>
 
