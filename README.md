@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/swapnanil99/swapnanil99/main/banner.gif)
+![Banner](https://raw.githubusercontent.com/swapnanil99/swapnanil99/main/banner.gif) 
 
 ## <span style="font-family: Impact, Charcoal, sans-serif; font-size: 30px; letter-spacing: 1px;">💫 Hello world👋, I'm Swapnanil Maity</span>
 <img alt="About Me Image" width="230"
